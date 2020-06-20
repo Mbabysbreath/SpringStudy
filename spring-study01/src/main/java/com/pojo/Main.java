@@ -21,7 +21,7 @@ public class Main {
         Object duckShop2 = context.getBean("duckShop");
         System.out.println(duck1);
         System.out.println(duck2);
-        System.out.println(duckShop1==duckShop2);
+        System.out.println(duckShop1==duckShop2);//作用域变化，不是同一地址了
 
     }
 }

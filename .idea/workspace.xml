@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ff5a5b8-eeab-4350-bd4c-e30bbf4ac852" name="默认" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/spring-study01.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Duck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/DuckShop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/resources/applications.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/dao/UserDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/dao/UserDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/dao/UserDaoMysqlImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/dao/UserDaoOracleDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/service/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/java/com/min/service/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/main/resources/beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring01-ioc1/src/test/java/MyTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring02-helloSpring/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring02-helloSpring/spring02-helloSpring.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring02-helloSpring/src/main/java/com/min/pojo/Hello.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring02-helloSpring/src/main/resources/beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring02-helloSpring/src/test/java/MyTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring03-ioc2/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring03-ioc2/spring03-ioc2.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring03-ioc2/src/main/java/com/min/pojo/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring03-ioc2/src/main/resources/beans.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Spring-Study/spring03-ioc2/src/test/java/MyTest.java" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Study/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Study/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/../Spring-Study/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Spring-Study/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Spring-Study/pom.xml" afterPath="$PROJECT_DIR$/../Spring-Study/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Main.java" afterPath="$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../Spring-Study/out/" />
     <ignored path="$PROJECT_DIR$/../Spring-Study/target/" />
@@ -162,8 +124,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="461">
+              <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,6 +145,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Spring-Study" />
   </component>
   <component name="GradleLocalSettings">
@@ -264,7 +227,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="35" />
     <option name="width" value="982" />
@@ -476,7 +439,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -679,15 +642,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592623233480</updated>
-      <workItem from="1592623242122" duration="16270000" />
+      <workItem from="1592623242122" duration="17282000" />
     </task>
+    <task id="LOCAL-00001" summary="1.学习使用spring管理对象">
+      <created>1592663772737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592663772737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16270000" />
+    <option name="totallyTimeSpent" value="17282000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="35" width="982" height="1056" extended-state="0" />
+    <frame x="-11" y="35" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -755,6 +726,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.学习使用spring管理对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.学习使用spring管理对象" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -985,8 +960,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Spring-Study/spring-study01/src/main/java/com/pojo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="461">
+          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
