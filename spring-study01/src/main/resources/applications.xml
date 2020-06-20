@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--constructor-arg 构造器，传一个参数“赵敏8”-->
+    <bean id="myName" class="java.lang.String">
+        <constructor-arg  value="赵敏8"/>
+    </bean>
+
+    <bean id="duck1" class="com.pojo.Duck">
+        <property name="name" value="duck1"/>
+        <property name="age" value="10"/>
+    </bean>
+    <bean id="duck2" class="com.pojo.Duck">
+        <property name="name" value="duck1"/>
+        <property name="age" value="10"/>
+    </bean>
+    <!--集合使用list-->
+    <bean id="duckShop" class="com.pojo.DuckShop" scope="prototype">
+        <property name="name" value="周黑鸭"/>
+        <property name="list">
+            <list>
+                <ref bean="duck1"/>
+                <ref bean="duck2"/>
+            </list>
+        </property>
+    </bean>
+
+
+
+</beans>

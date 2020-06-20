@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--&lt;!&ndash;通过下标构造&ndash;&gt;-->
+    <!--<bean id="user" class="com.min.pojo.User">-->
+        <!--<constructor-arg index="0" value="赵敏"/>-->
+    <!--</bean>-->
+
+    <!--&lt;!&ndash;通过类型构造&ndash;&gt;-->
+    <!--<bean id="user" class="com.min.pojo.User">-->
+        <!--<constructor-arg type="java.lang.String" value="王一博"/>-->
+    <!--</bean>-->
+
+    <!--通过参数名构造对象-->
+    <bean id="user" class="com.min.pojo.User">
+        <!--<constructor-arg name="name" value="赵敏8"/>-->
+        <constructor-arg value="赵敏8"/>
+    </bean>
+
+
+</beans>

@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring01-ioc1</module>
+        <module>spring02-helloSpring</module>
+        <module>spring03-ioc2</module>
+        <module>spring-study01</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
