@@ -12,7 +12,7 @@ public class Main {
         ApplicationContext context = new ClassPathXmlApplicationContext("applications.xml");
 //        Object myName = context.getBean("myName");
 //        System.out.println(myName.getClass());
-//        System.out.println(myName);
+//         System.out.println(myName);
 
         Object duck1 = context.getBean("duck1");
 
