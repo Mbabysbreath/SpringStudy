@@ -11,7 +11,7 @@ import com.min.dao.UserDaoMysqlImpl;
 public class UserServiceImpl implements UserService {
     //业务层调用DAO
 //    private UserDao userDao=new UserDaoImpl();
-    //private UserDao userDao=new UserDaoMysqlImpl();
+    //private  UserDao userDao=new UserDaoMysqlImpl();
 
     //改进,使用set进行动态实现值得注入
     private UserDao userDao;

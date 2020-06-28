@@ -13,6 +13,13 @@ public class Duck {
     private String name;
     private Integer age;
 
+    public Duck() {
+    }
+
+    public Duck(String name) {
+        this.name = name;
+    }
+
     @Override
     public String toString() {
         return "Duck{" +
